@@ -2,13 +2,13 @@
 
 layout: page-cols
 nav: about
-title: Ariel Saldana - About | ahhriel 
+title: Ariel Saldana - About | ariel.io 
 
 ---
 
 <div class="page-col">{% capture m %}
 
-![ahhriel about](/img/ariel-saldana-about.jpg)
+![Ariel Saldana about](/img/ariel-saldana-about.jpg)
 
 __ahhriel__? Almost.. Ariel Saldana; which is my name, + the way people love to pronounce it = __ahhriel__.
 
@@ -29,6 +29,6 @@ __I ♥__: Riding dirt bikes, coding, designing, art, going on adventures, and w
 ## Contact
 
 * Tweet on [Twitter](http://twitter.com/yerariel)
-* Email to [ariel@ahhriel.com](mailto:ariel@ahhriel.com)
+* Email to [hello@ariel.io](mailto:hello@ariel.io)
 
 {% endcapture %}{{ m | markdownify }}</div>
