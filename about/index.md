@@ -2,7 +2,7 @@
 
 layout: page-cols
 nav: about
-title: Ariel Saldana - About | ariel.io 
+title: Ariel Saldana | ariel.io
 
 ---
 

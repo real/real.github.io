@@ -1,6 +1,6 @@
 ---
 
-title: ahhriel lab
+title: lab - Ariel Saldana | ariel.io
 category: lab
 layout: index
 
