@@ -4,7 +4,7 @@ name: ahhriel
 description: Blog about ahhriel's work and CSS doodles
 url: http://ahhriel.com
 
-permalink: /:categories/:year/:month/:day/:title
+permalink: /:categories/:year/:month/:day/:title/
 
 markdown: redcarpet
 redcarpet:
